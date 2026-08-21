@@ -131,7 +131,7 @@ The project contains multiple Tableau worksheets and dashboards, including:
 
 ![Sales & Business Analytics Dashboard](dashboard.png)
 
-> **Note:** Upload your dashboard screenshot to the GitHub repository and name it `dashboard.png`, or change the filename above to match your uploaded image.
+
 
 ---
 
